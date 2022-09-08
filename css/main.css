@@ -1,0 +1,39 @@
+.logo{
+  font-family: "Helvetica Neue","Liberation Sans",Arial,sans-serif;
+  font-size: 1.25rem;
+}
+
+.hero{
+  padding: 54px 0;
+  background-color: rgb(119, 119, 119);
+}
+
+.line{
+  margin: 5rem 0;
+}
+
+.carousel-caption{
+  margin-bottom: 50px;
+}
+.fw-normal{
+  font-weight: 400!important;
+}
+
+.lh-1 {
+  line-height: 1!important;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.carousel-item{
+  height: 32rem;
+}
+
+@media only screen and (min-width:768px) {
+  .featurette-title{
+    font-size: 50px;
+  }
+}
